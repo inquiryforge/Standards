@@ -1,0 +1,2 @@
+# Optional dependency for audit_sources.py; validate.py needs no packages.
+pypdf==6.21.4

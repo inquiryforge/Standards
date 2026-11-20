@@ -1,4 +1,6 @@
-"""Compare independent PDF codes and every workbook statement cell with records."""
+"""Compare independent PDF codes and every workbook statement cell with records.
+Print the JSON report to stdout without changing repository files.
+"""
 import sys,json,re,unicodedata,collections,logging
 from pathlib import Path
 from common import ROOT,KINDS
@@ -74,5 +76,4 @@ for doc in json.loads((ROOT/'sources/cte-program-sources.json').read_text(encodi
 report['CTE statement cells']={'program_workbooks':len(programs),'expected_statement_cells':len(expected),'owned_statement_cells':len(owners),'issues':issues[:20],'unexplained_owned_cells':list(set(owners)-expected)[:10],'passed':not issues and set(owners)==expected}
 if not report['CTE statement cells']['passed']:failed.append('CTE statement cells')
 print(json.dumps(report,ensure_ascii=False,indent=2))
-(ROOT/'docs/source-audit.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 if failed:raise SystemExit('Audit mismatches: '+', '.join(failed))

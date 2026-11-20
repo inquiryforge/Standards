@@ -42,6 +42,8 @@ standards/us/mi/
 
 Each folder's `README.md` is its record and GitHub landing page. `code` is the complete standard reference; `source_code` preserves the printed reference; `id` identifies its edition and scope. See [naming rules](docs/NAMING.md), [source boundaries](docs/SOURCES.md), and the searchable [catalog](catalog.json).
 
+Browse the Markdown files or import `catalog.json` directly; neither requires Python or installed packages. The small scripts in `tools/` are for maintainers to check changes against the records and original publications. See [Validation](docs/VALIDATION.md) for the two check commands.
+
 ## Reference
 
 - [Catalog](catalog.json): all records and their metadata.
