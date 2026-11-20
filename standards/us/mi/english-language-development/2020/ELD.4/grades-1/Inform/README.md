@@ -1,0 +1,26 @@
+---
+id: "MI.ELD.2020.ELD.4.1.Inform"
+parent_id: "MI.ELD.2020.ELD.4.1"
+node_type: "group"
+code: null
+title: "Inform"
+jurisdiction: "US-MI"
+subject: "english-language-development"
+framework: "WIDA English Language Development Standards Framework"
+edition: "2020"
+grade_band: [1]
+status: "structural"
+source: []
+children: ["MI.ELD.2020.ELD-SC.1.Inform.Interpretive", "MI.ELD.2020.ELD-SC.1.Inform.Expressive"]
+path: "standards/us/mi/english-language-development/2020/ELD.4/grades-1/Inform/README.md"
+notes: []
+---
+
+# Inform
+
+[Parent](../README.md)
+
+## Children
+
+- [ELD-SC.1.Inform.Interpretive - Interpret scientific informational texts by C ● Determining what text is about ● ●...](ELD-SC.1.Inform.Interpretive/README.md)
+- [ELD-SC.1.Inform.Expressive - Construct scientific informational texts that ● Introduce others to topic or entity...](ELD-SC.1.Inform.Expressive/README.md)

@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.12.0500.2024.B1.S023.PI001"
+parent_id: "MI.CTE.12.0500.2024.B1.S023"
+node_type: "substandard"
+code: "B1.S023.PI001"
+title: "List and explain the USDA quality grades for produce."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2024"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:12.0500:2024", "sheet": "Standards", "cells": ["E157"]}]
+children: []
+path: "standards/us/mi/career-technical-education/hospitality-and-tourism/12.0500/2024/competencies/PCC-B/B1/S023/PI001/README.md"
+notes: []
+source_code: "PS/L1.9.2"
+code_origin: "repository-position"
+record_role: "performance-indicator"
+title_origin: "statement-excerpt"
+text_sha256: "60cc9f7f3a5b1d7384c5432a989401e099482c54145e85a22bc2ed642d9745a9"
+---
+
+# B1.S023.PI001 - List and explain the USDA quality grades for produce.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+List and explain the USDA quality grades for produce.
+<!-- standard-text:end -->
+
+## Source
+
+- [12.0500 - Cooking Related Culinary Arts Overview](../../../../../../../../../../../../sources/official/cte/12.0500.xlsx); worksheet Standards; cell(s) E157. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Hospitality/120500-Cooking-Related-Culinary-Arts-Overview.xlsx?rev=d86d9baf596f4986918395e7e4f262fc&hash=458B6FFC8C64E950FEEDB53CB82FA626)

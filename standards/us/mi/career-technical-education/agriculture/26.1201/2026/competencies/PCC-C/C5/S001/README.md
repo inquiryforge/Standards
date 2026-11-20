@@ -1,0 +1,37 @@
+---
+id: "MI.CTE.26.1201.2026.C5.S001"
+parent_id: "MI.CTE.26.1201.2026.C5"
+node_type: "substandard"
+code: "C5.S001"
+title: "Summarize reasons for detecting microbes."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2026"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:26.1201:2026", "sheet": "Standards", "cells": ["C167", "D167", "C170", "D170"]}]
+children: []
+path: "standards/us/mi/career-technical-education/agriculture/26.1201/2026/competencies/PCC-C/C5/S001/README.md"
+notes: []
+source_code: "BS.03.02.01.a."
+code_origin: "repository-position"
+record_role: "aligned-standard"
+related_competency_ids: ["MI.CTE.26.1201.2026.C5"]
+title_origin: "statement-excerpt"
+text_sha256: "a440d3ecb64470e7d01b1ea24d69ab5e124d6dd5d14d53a9dfd3eb5e98bcd8a7"
+---
+
+# C5.S001 - Summarize reasons for detecting microbes.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Summarize reasons for detecting microbes.
+<!-- standard-text:end -->
+
+## Source
+
+- [26.1201 - Biotechnology Overview](../../../../../../../../../../../sources/official/cte/26.1201.xlsx); worksheet Standards; cell(s) C167, D167, C170, D170. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/261201-Biotechnology-Overview.xlsx?rev=8106703de672496db7111e5cf2363baa&hash=5A9A6E7BDA53071A6EE680655086C79E)

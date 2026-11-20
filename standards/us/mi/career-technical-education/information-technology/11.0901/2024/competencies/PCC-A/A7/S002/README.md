@@ -1,0 +1,42 @@
+---
+id: "MI.CTE.11.0901.2024.A7.S002"
+parent_id: "MI.CTE.11.0901.2024.A7"
+node_type: "substandard"
+code: "A7.S002"
+title: "Ensure that system is functioning optimally."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2024"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:11.0901:2024", "sheet": "Standards", "cells": ["D131", "E131", "D337", "E337", "D418", "E418"]}]
+children: []
+path: "standards/us/mi/career-technical-education/information-technology/11.0901/2024/competencies/PCC-A/A7/S002/README.md"
+notes: []
+source_code: "X.N.2"
+code_origin: "repository-position"
+record_role: "aligned-standard"
+related_competency_ids: ["MI.CTE.11.0901.2024.A7", "MI.CTE.11.0901.2024.C2", "MI.CTE.11.0901.2024.C7"]
+title_origin: "statement-excerpt"
+text_sha256: "f3222b74d2ddfe720211846cdf7c4eeb205fd471b1de00109ddfc8017f8f34a6"
+---
+
+# A7.S002 - Ensure that system is functioning optimally.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Ensure that system is functioning optimally.
+<!-- standard-text:end -->
+
+## Source
+
+- [11.0901 - Computer Systems Networking Telecommunications Overview](../../../../../../../../../../../sources/official/cte/11.0901.xlsx); worksheet Standards; cell(s) D131, E131, D337, E337, D418, E418. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110901-Computer-Systems-Networking-Telecommunications-Overview.xlsx?rev=9f2bd15e67a34e5191b177dcff2c428a&hash=D09D7DB2B3A945A3678E24539709D030)
+
+## Also aligned to
+
+- [C2 - Use the appropriate statistics and sensors to ensure network availability (SNMP,...](../../../PCC-C/C2/README.md)
+- [C7 - Use the appropriate network software tools and commands from multiple operating...](../../../PCC-C/C7/README.md)

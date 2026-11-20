@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.12.0500.2024.A2.S044.PI001"
+parent_id: "MI.CTE.12.0500.2024.A2.S044"
+node_type: "substandard"
+code: "A2.S044.PI001"
+title: "Know the general guidelines for thermometer use."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2024"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:12.0500:2024", "sheet": "Standards", "cells": ["E87"]}]
+children: []
+path: "standards/us/mi/career-technical-education/hospitality-and-tourism/12.0500/2024/competencies/PCC-A/A2/S044/PI001/README.md"
+notes: []
+source_code: "SS 4.4"
+code_origin: "repository-position"
+record_role: "performance-indicator"
+title_origin: "statement-excerpt"
+text_sha256: "e1b74eb3d845fff492c779323af4bd9d8d1a37e9f1f399468b9088d017e2ffe3"
+---
+
+# A2.S044.PI001 - Know the general guidelines for thermometer use.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Know the general guidelines for thermometer use.
+<!-- standard-text:end -->
+
+## Source
+
+- [12.0500 - Cooking Related Culinary Arts Overview](../../../../../../../../../../../../sources/official/cte/12.0500.xlsx); worksheet Standards; cell(s) E87. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Hospitality/120500-Cooking-Related-Culinary-Arts-Overview.xlsx?rev=d86d9baf596f4986918395e7e4f262fc&hash=458B6FFC8C64E950FEEDB53CB82FA626)

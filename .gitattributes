@@ -1,0 +1,7 @@
+* text=auto eol=lf
+
+# Preserve publication bytes and source checksums on every platform.
+sources/official/** -text
+*.pdf binary
+*.xlsx binary
+*.zip binary

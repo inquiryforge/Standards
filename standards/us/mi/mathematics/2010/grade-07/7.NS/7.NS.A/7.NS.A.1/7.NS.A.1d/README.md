@@ -1,0 +1,35 @@
+---
+id: "MI.MATH.2010.7.NS.A.1d"
+parent_id: "MI.MATH.2010.7.NS.A.1"
+node_type: "substandard"
+code: "7.NS.A.1d"
+title: "Apply properties of operations as strategies to add and subtract rational numbers."
+jurisdiction: "US-MI"
+subject: "mathematics"
+framework: "Michigan Mathematics"
+edition: "2010"
+grade_band: [7]
+status: "active"
+source: [{"source_id": "mde:math2010", "pages": [50]}]
+children: []
+path: "standards/us/mi/mathematics/2010/grade-07/7.NS/7.NS.A/7.NS.A.1/7.NS.A.1d/README.md"
+notes: []
+source_code: "7.NS / 1.d"
+code_origin: "conventional-composite"
+title_origin: "statement-excerpt"
+text_sha256: "0fb4c0975158ef7606a69aae2a0c9fa93125deed95a626f94c6bd78f546bbc03"
+---
+
+# 7.NS.A.1d - Apply properties of operations as strategies to add and subtract rational numbers.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Apply properties of operations as strategies to add and subtract rational numbers.
+<!-- standard-text:end -->
+
+## Source
+
+- [Michigan K-12 Standards: Mathematics](../../../../../../../../../../sources/official/math.pdf); PDF page(s) 50. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/Literacy/Content-Standards/Math_Standards.pdf)

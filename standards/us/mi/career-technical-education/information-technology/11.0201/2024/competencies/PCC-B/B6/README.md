@@ -1,0 +1,40 @@
+---
+id: "MI.CTE.11.0201.2024.B6"
+parent_id: "MI.CTE.11.0201.2024.PCC.B"
+node_type: "standard"
+code: "B6"
+title: "Describe the nature and types of business structures to build an understanding of..."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2024"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:11.0201:2024", "sheet": "PCC", "cells": ["A14", "C14"]}]
+children: ["MI.CTE.11.0201.2024.B6.S001"]
+path: "standards/us/mi/career-technical-education/information-technology/11.0201/2024/competencies/PCC-B/B6/README.md"
+notes: []
+source_code: "B6"
+code_origin: "source"
+record_role: "program-competency"
+title_origin: "statement-excerpt"
+text_sha256: "d62835842742eae6ea81dd8906156a5c9ad68401d4b6c3c3a230f8d0e3b4f1f5"
+---
+
+# B6 - Describe the nature and types of business structures to build an understanding of...
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Describe the nature and types of business structures to build an understanding of the scope of organizations.
+<!-- standard-text:end -->
+
+## Source
+
+- [11.0201 - Computer Programming Overview](../../../../../../../../../../sources/official/cte/11.0201.xlsx); worksheet PCC; cell(s) A14, C14. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110201-Computer-Programming-Overview.xlsx?rev=03e1cf89eee149e59f708b8cb9d223f6&hash=5F5D5C869A63480E9DFB29F688EFF6AB)
+
+## Children
+
+- [B6.S001 - Describe the issues that impact network functionality (e.g., bandwidth, load, delay,...](S001/README.md)

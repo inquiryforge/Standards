@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.47.0608.2026-2027.MATRIX.X.W.2.a"
+parent_id: "MI.CTE.47.0608.2026-2027.MATRIX.X.W.2"
+node_type: "substandard"
+code: "X.W.2.a"
+title: "Inspection and maintenance record requirements and entries C-2"
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2012"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:47.0608:2026-2027", "sheet": "Standards", "cells": ["D671", "E671"]}]
+children: []
+path: "standards/us/mi/career-technical-education/transportation-distribut/47.0608/2026-2027/standards/x/x-w/x-w-2/x-w-2-a/README.md"
+notes: []
+source_code: "X.W.2.a"
+code_origin: "source-position-composite"
+record_role: "measurement-criterion"
+title_origin: "statement-excerpt"
+text_sha256: "0bc177d16bf8006a983af7b59a6957162297233a2961f6555139f29e0d62da02"
+---
+
+# X.W.2.a - Inspection and maintenance record requirements and entries C-2
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Inspection and maintenance record requirements and entries C-2
+<!-- standard-text:end -->
+
+## Source
+
+- [47.0608 - Power Plant Technology Overview](../../../../../../../../../../../../sources/official/cte/47.0608.xlsx); worksheet Standards; cell(s) D671, E671. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470608-Power-Plant-Technology-Overview.xlsx?rev=63ca7e6463af45db8e3629559c7e4610&hash=4CBA12763A87FCE16621CE7C549B91A7)

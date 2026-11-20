@@ -1,0 +1,30 @@
+---
+id: "MI.SS.2019.G07.G5.1"
+parent_id: "MI.SS.2019.G07.G5"
+node_type: "group"
+code: "G5.1"
+title: "Grouping for G5.1"
+jurisdiction: "US-MI"
+subject: "social-studies"
+framework: "Michigan K-12 Social Studies Standards"
+edition: "2019"
+grade_band: [7]
+status: "structural"
+source: []
+children: ["MI.SS.2019.G07.G5.1.1", "MI.SS.2019.G07.G5.1.2", "MI.SS.2019.G07.G5.1.3"]
+path: "standards/us/mi/social-studies/2019/grades-06-08/grade-07/era-2/G5/G5.1/README.md"
+notes: ["Structural parent inferred from published child codes; no heading is printed for this level."]
+title_origin: "inferred-code-group"
+---
+
+# G5.1 - Grouping for G5.1
+
+[Parent](../README.md)
+
+> Structural parent inferred from published child codes; no heading is printed for this level.
+
+## Children
+
+- [G5.1.1 - Describe examples of how humans modified the environment in the era being studied.](G5.1.1/README.md)
+- [G5.1.2 - Explain how different technologies were used in the era being studied.](G5.1.2/README.md)
+- [G5.1.3 - Explain how people defined and used natural resources in the era being studied.](G5.1.3/README.md)

@@ -1,0 +1,42 @@
+---
+id: "MI.CTE.47.0609.2026-2027.MATRIX.IV.E.1"
+parent_id: "MI.CTE.47.0609.2026-2027.MATRIX.IV.E"
+node_type: "substandard"
+code: "IV.E.1"
+title: "Execute procedures involved in using Geographic Information System/ Global Positions..."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2012"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:47.0609:2026-2027", "sheet": "Standards", "cells": ["C190", "E190"]}]
+children: ["MI.CTE.47.0609.2026-2027.MATRIX.IV.E.1.a", "MI.CTE.47.0609.2026-2027.MATRIX.IV.E.1.b", "MI.CTE.47.0609.2026-2027.MATRIX.IV.E.1.c"]
+path: "standards/us/mi/career-technical-education/transportation-distribut/47.0609/2026-2027/standards/iv/iv-e/iv-e-1/README.md"
+notes: []
+source_code: "IV.E.1"
+code_origin: "source-position-composite"
+record_role: "performance-element"
+title_origin: "statement-excerpt"
+text_sha256: "66bd065800bdc8a762e8e59fc442f8c575a8fb304c906fdfcb41224f15b499e8"
+---
+
+# IV.E.1 - Execute procedures involved in using Geographic Information System/ Global Positions...
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Execute procedures involved in using Geographic Information System/ Global Positions System (GIS/GPS) applications to perform various work functions.
+<!-- standard-text:end -->
+
+## Source
+
+- [47.0609 - Avionics Maintenance Overview](../../../../../../../../../../../sources/official/cte/47.0609.xlsx); worksheet Standards; cell(s) C190, E190. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470609-Avionics-Maintenance-Overview.xlsx?rev=98f34117527f4fad8d3be7fedcb8c567&hash=E0A08EB7ADCC891510D1E973ABC5121E)
+
+## Children
+
+- [IV.E.1.a - Create maps.](iv-e-1-a/README.md)
+- [IV.E.1.b - Locate people or things.](iv-e-1-b/README.md)
+- [IV.E.1.c - Identify best route for travel.](iv-e-1-c/README.md)

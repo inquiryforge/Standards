@@ -1,0 +1,644 @@
+[
+  {
+    "id": "mde:math2010",
+    "file": "sources/official/math.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Literacy/Content-Standards/Math_Standards.pdf",
+    "retrieved": "2026-11-20",
+    "sha256": "dbbd4e341a046f22fa4df1dec4af2fd06b35249ad3e3ff9734a3f03bcd6b1a54",
+    "title": "Michigan K-12 Standards: Mathematics",
+    "edition": "2010",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:ela2010",
+    "file": "sources/official/ela.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Literacy/Content-Standards/ELA_Standards.pdf",
+    "retrieved": "2026-11-20",
+    "sha256": "5d340bbe90c70f95b937a4b95f099b55543b423e55ac0708ea43fee6a15a4863",
+    "title": "Michigan K-12 Standards: English Language Arts",
+    "edition": "2010",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:science2015",
+    "file": "sources/official/science.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Literacy/Content-Standards/Science_Standards.pdf",
+    "retrieved": "2026-11-20",
+    "sha256": "7801c77e30f2e5cb76545bcc86e9cfff1abe57fe22d45bb853a4dc65ac0a5ac0",
+    "title": "Michigan Science Standards, November 2015",
+    "edition": "2015",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:social-studies2019",
+    "file": "sources/official/social-studies-2019.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf?rev=7ec086ebb7814277baf6702705fb8007&hash=E2F7B23E51EAC1696D9586B67E006F5C",
+    "retrieved": "2026-11-20",
+    "edition": "2019-06",
+    "title": "Michigan K-12 Social Studies Standards, June 2019",
+    "authority": "Michigan Department of Education",
+    "sha256": "bba06f46bb241ae3cdd698caaeb41baa3c976d96176fef0a9d594a7e98e70b96",
+    "layout_file": "sources/official/social-studies-2019-lines.json",
+    "layout_sha256": "24b5cb4a9996cf26359bece2fa70a91c7040fbf2592c44239fbf70829eedb585"
+  },
+  {
+    "id": "mde:arts2011",
+    "file": "sources/official/arts.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Arts_Standards_Benchmarks_GLCE.pdf?rev=b41265e5106d4516967caa5ae6ce2e06&hash=E42804349D8F2285636810006EA64C04",
+    "retrieved": "2026-11-20",
+    "sha256": "f52e0506e30a2277991ae4cebfe75ce157ca0cc3d6ba2b833e15ee8fd9113f2b",
+    "title": "Michigan Visual Arts, Music, Dance, and Theatre (June 2011)",
+    "edition": "2011",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:computer-science2019",
+    "file": "sources/official/computer-science.pdf",
+    "url": "https://www.michigan.gov/documents/mde/CompSci_Standards_Accessible_Final_655284_7.pdf",
+    "retrieved": "2026-11-20",
+    "sha256": "62bedb9e798a0ebb387dbbeafefc1f926c745df1dd564e4b67b41385e0392c3d",
+    "title": "Michigan K-12 Computer Science Standards (May 2019)",
+    "edition": "2019",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:health2025",
+    "file": "sources/official/health.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/ohns/School-Health-and-Safety/Michigan-Health-Education-Standards-Guidelines-2025---ADA-final-with-edits-12-19-25.pdf?rev=eef53814d41c406291778851ab1a3d22&hash=6A31E88AB7393C2A4327146123060D6F",
+    "retrieved": "2026-11-20",
+    "sha256": "e64744d56ba3ba36b968012995f9fed259f74efbb49fbfc91075be8b16defee4",
+    "title": "Michigan Health Education Standards Guidelines (2025)",
+    "edition": "2025",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:technology2017",
+    "file": "sources/official/technology.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/MITECS.pdf?rev=49eea97cb95c493982003d25eff688dc&hash=3F1CBC95F61D7F023EB913DF4452996F",
+    "retrieved": "2026-11-20",
+    "sha256": "9779cf8c92a776ec9872bfcd11fe8bc26898308cf1e1c169391d7701bdade974",
+    "title": "Michigan Integrated Technology Competencies for Students (2017)",
+    "edition": "2017",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:personal-finance2023",
+    "file": "sources/official/personal-finance.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Personal-Finance/Personal_Finance_Content_Expectations.pdf?rev=c606f40bd2d1472fa76dde47939a70a9&hash=ACC9DA65F729A0A14DE41F1A89197520",
+    "retrieved": "2026-11-20",
+    "sha256": "ff97640535d7864de8d3333669a5f8d8ab8134ebfa0af5f9f938cf2e91ab2735",
+    "title": "Michigan Personal Finance Content Expectations (May 2023)",
+    "edition": "2023",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:world-languages2007",
+    "file": "sources/official/world-languages.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/WL_Standards_Benchmarks.pdf?rev=bd78a12de6384f5fa302e29a15cc078d&hash=6476D276B5510D8CB1EC3F66AB2747A8",
+    "retrieved": "2026-11-20",
+    "sha256": "bed0dc9cd5deacce8862563b50096528321e2ac29d6187589367cfc38931e3e7",
+    "title": "Michigan World Language Standards and Benchmarks (2007)",
+    "edition": "2007",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:physical-education2017",
+    "file": "sources/official/physical-education.pdf",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/2019/02/22/K_12_PE_Standards_Aug_17_ADA_compliance918.pdf",
+    "retrieved": "2026-11-20",
+    "sha256": "88ab7e08a6611015674ebf97e67a7e8ba0aabb9138b9376bf70adecd9018d93c",
+    "title": "Michigan K-12 Physical Education Standards (2017)",
+    "edition": "2017",
+    "authority": "Michigan Department of Education"
+  },
+  {
+    "id": "mde:english-language-development2020",
+    "file": "sources/official/english-language-development.pdf",
+    "url": "https://wida.wisc.edu/sites/default/files/resource/WIDA-ELD-Standards-Framework-2020.pdf",
+    "retrieved": "2026-11-20",
+    "sha256": "0d92701e7cc5015fb1b98619561f2b22e5b813ddc476c0b799bfc94534b9fba7",
+    "title": "WIDA English Language Development Standards Framework (2020)",
+    "edition": "2020",
+    "authority": "WIDA, University of Wisconsin-Madison"
+  },
+  {
+    "id": "mde:cte:01.0000:2024",
+    "file": "sources/official/cte/01.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/010000-Agriculture-Overview.xlsx?rev=2ec17374d55d4d12970c9191d8ccae3b&hash=2E8D3F81BAB12D9800D78CFDF309C3AC",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "01.0000 - Agriculture Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "66931ce7cdd901ea8dedc0758b7e258eabb4f01bca50a0014d28bc91b4eb3df9"
+  },
+  {
+    "id": "mde:cte:01.0601:undated",
+    "file": "sources/official/cte/01.0601.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/010601-Applied-Horticulture-Overview.xlsx?rev=eb8bfb7c1f304e85a963abaaa1bd7423&hash=D2EB654B67C5FD0256BE57B344D4123E",
+    "retrieved": "2026-11-20",
+    "edition": "undated",
+    "title": "01.0601 - Applied Horticulture Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "5382218ae3600a60e8739d0ead1acaefaf1652a67c75d8c23cb7364016beed52"
+  },
+  {
+    "id": "mde:cte:01.0903:2024",
+    "file": "sources/official/cte/01.0903.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/010903-Animal-Health-Veterinary-Sciences-Overview.xlsx?rev=f520804d2a5643d5819923083619e8d5&hash=E1BAADCFABF58F023436947E4C5965FB",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "01.0903 - Animal Health and Veterinary Sciences Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "cf22bde99fb8212c72c4d4705882792824dd5608ecf231a7813e0070de8b8fc6"
+  },
+  {
+    "id": "mde:cte:03.0000:2024",
+    "file": "sources/official/cte/03.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/030000-Natural-Resources-Overview.xlsx?rev=b2a168970b4241a1aedfc922474ecdee&hash=3CB718142573BFF793E07FF5EDE1490D",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "03.0000 - Natural Resources Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "c086e1eb3b66adf3a397dcc3b015089a2e10debe07f7b45efa3d62460d279635"
+  },
+  {
+    "id": "mde:cte:26.1201:2026",
+    "file": "sources/official/cte/26.1201.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/261201-Biotechnology-Overview.xlsx?rev=8106703de672496db7111e5cf2363baa&hash=5A9A6E7BDA53071A6EE680655086C79E",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "26.1201 - Biotechnology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "c123d8fd3845195ab53156a1334e1a8a9012271ca00659011bb6c1d3280971b7"
+  },
+  {
+    "id": "mde:cte:10.0202:2026",
+    "file": "sources/official/cte/10.0202.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/100202-Radio-TV-Broadcasting-Technology-Overview.xlsx?rev=bee35bb19de047369efde3c5f9e60969&hash=D4424737B5FDD395FD6188118DDE68AD",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "10.0202 - Radio & TV Broadcasting Technology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "986cef144becd12e706167df33b4bd9247bc36c80f55ab17fcad4a378f5f3445"
+  },
+  {
+    "id": "mde:cte:10.0301:2026",
+    "file": "sources/official/cte/10.0301.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/100301-Graphics-Printing-Technology-Communications-Overview.xlsx?rev=8e0ed5ae0f324b5bbfef521b9a2a3ea9&hash=8669D416BBB5F4D32515B994BE02D3DC",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "10.0301 - Graphics Printing Technology Communications Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "b99d99fd369151dc8a992aa676f19a9b75c002408203a2649f21ee7feabba00a"
+  },
+  {
+    "id": "mde:cte:19.0906:2026-2027",
+    "file": "sources/official/cte/19.0906.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/190906-Fashion-Design-Overview.xlsx?rev=92b9a731550c475a832613bb1f09c0bd&hash=1A7C18CBBCE0982990E3BE22EFDCC4F8",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "19.0906 - Fashion Design Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "f12020cbcb29d9af698465ec2dcead623be82fd4fa1906e6131fe017e1c6d116"
+  },
+  {
+    "id": "mde:cte:50.0101:2026-2027",
+    "file": "sources/official/cte/50.0101.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/500101-Visual-Performing-Arts-Overview.xlsx?rev=332e03a3684c458e8b681157f16078d8&hash=09E1B3F7F4469D8748FA76AD8BA1981D",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "50.0101 - Visual Performing Arts Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "3ee3957bbf08a89038f2087a32cbe7b5233322fb393a365bc39c9fa456f9e5e2"
+  },
+  {
+    "id": "mde:cte:52.0299:2021",
+    "file": "sources/official/cte/52.0299.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Business/520299-Business-Administration-Management-Operations-Overview.xlsx?rev=9817c63c92014fcb966c56c635f5264d&hash=DBC82761A3E198C072F2C396E184CCF7",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "52.0299 - Business Administration Management Operations Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "b13971978691de1d136a798432a44f5ef0b94e231d363daf8b72cb1f6d831c56"
+  },
+  {
+    "id": "mde:cte:15.1301:2026",
+    "file": "sources/official/cte/15.1301.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/151301-Drafting-Design-Technology-Architectural-Overview.xlsx?rev=b107ba2a15c84aa3812e16cd240f352d&hash=CC56C59927EC7E755317687A37D51E58",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "15.1301 - Drafting Design Technology Architectural Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "b9be4466769dfb9a35756295d4a064f00edb82ef3a76c6dcb8fe11f9fae25b92"
+  },
+  {
+    "id": "mde:cte:19.0605:2026-2027",
+    "file": "sources/official/cte/19.0605.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/190605-Home-Furnishings-Overview.xlsx?rev=51c3ac4019764deca607a586f0e8c03b&hash=ABD2F5E931DC10AAFB83C884DF4BC330",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "19.0605 - Home Furnishings Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "899b7eab17d4b5892ad22171799b7ad0034dcd81c5d4d760dec47e94c878f06a"
+  },
+  {
+    "id": "mde:cte:46.0000:2021",
+    "file": "sources/official/cte/46.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460000-Construction-Trades-Overview.xlsx?rev=1cf1fc779d4e48268dd8f5bbb64e5c37&hash=DF2AC2A5B8E26D7E9BE903B14BCF72C6",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "46.0000 - Construction Trades Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "ecd96699d7ba66f7ff06018e50deaf92069f124da5781716e9ebf32af7f7b6cd"
+  },
+  {
+    "id": "mde:cte:46.0301:2021",
+    "file": "sources/official/cte/46.0301.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460301-Electrical-Power-Transmission-Installation-Overview.xlsx?rev=91395857991a48089da802e9eb278a05&hash=795D9968917B9B58184DB40FCE197E69",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "46.0301 - Electrical Power Transmission Installation Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "c8a18ec41524ea57726c9cad7d715349016db34b8909aa613f2f18f21cc510b1"
+  },
+  {
+    "id": "mde:cte:46.0503:2026-2027",
+    "file": "sources/official/cte/46.0503.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460503-Plumbing-Technology-Overview.xlsx?rev=44ab98eea05847f881e6b27fd56615b8&hash=31B964D3B3315035DBAEBD0346055606",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "46.0503 - Plumbing Technology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "48661ad4701506d57c18b805ceaa2c2277a5a5e5411d2cd239446b5f45a22bb2"
+  },
+  {
+    "id": "mde:cte:47.0201:2026",
+    "file": "sources/official/cte/47.0201.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/470201-Heating-Ventilation-Air-Conditioning-and-Refrigeration-Overview.xlsx?rev=f3e5c6cc585842ba90a23934438d85e4&hash=610E362FABF575358F843D15CF8DE24B",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "47.0201 - Heating, Air Conditioning, Ventilation and Refrigeration Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "394a74b4c1bfbc159aead75aa0906be683181082b56c91f2b42b38b0c429b9c3"
+  },
+  {
+    "id": "mde:cte:48.0701:2024",
+    "file": "sources/official/cte/48.0701.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/480701-Woodworking-Overview.xlsx?rev=1da5b54d09e94e49aba31c96f1ea35be&hash=EFA42AC2F525A1B4120E8FD64A088334",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "48.0701 - Woodworking Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "af313c6758acf5405ce84327d2f5d5aee0c10900682b723a5d977d166166e0ce"
+  },
+  {
+    "id": "mde:cte:13.0000:2021",
+    "file": "sources/official/cte/13.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Education/130000-Education-Overview.xlsx?rev=0091424ce23645c28ff34fe634d60924&hash=6C6467EA35B9495914222C960BF040D6",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "13.0000 Education Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "ddaad4839c798cb0b4a8bfa451dbd4ac8a67c4451f55f8e47a39a48e6bdfbfe5"
+  },
+  {
+    "id": "mde:cte:46.0303:2025",
+    "file": "sources/official/cte/46.0303.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Energy/460303-Lineworker-Overview.xlsx?rev=3858d3dd779044759fe1705cbb03505b&hash=EC216C3B3F0440B4C0133F1ACEB00192",
+    "retrieved": "2026-11-20",
+    "edition": "2025",
+    "title": "46.0303 - Lineworker Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "8bafbf19e2284f9a2e2fb8965ebb652687fe0ec1eae81ac810a005ccb8d365b2"
+  },
+  {
+    "id": "mde:cte:52.0800:2023-2024",
+    "file": "sources/official/cte/52.0800.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Finance/520800-Finance-and-Financial-Management-Services-Overview.xlsx?rev=ec12fda18087488b8ec04eeff9d152ed&hash=653F94443269E70E0F995DEDA4D9DCB1",
+    "retrieved": "2026-11-20",
+    "edition": "2023-2024",
+    "title": "52.0800 - Finance and Financial Management Services Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "e2327cca62e9eeb8776b55f13c2f008bd4d4e68d0616408960af20d8b65ddf5b"
+  },
+  {
+    "id": "mde:cte:52.1701:2025",
+    "file": "sources/official/cte/52.1701.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Finance/521701-Insurance-Overview.xlsx?rev=0e17b071cd2d4b548c2b35bbae10ae9c&hash=FECA121E99A91882AB45BACD025F81B1",
+    "retrieved": "2026-11-20",
+    "edition": "2025",
+    "title": "52.1701 - Insurance Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "e3234184bb034daf127fa17823c5b86d9efacd57291f5a4374cf1a7ac4db8c91"
+  },
+  {
+    "id": "mde:cte:28.0301:2026-2027",
+    "file": "sources/official/cte/28.0301.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Government/280301-Army-JROTC-Overview.xlsx?rev=26baa313c0ec46c5ba7b406e128a62a6&hash=1C104511052C6F23B131F697CC8BD9C7",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "28.0301 - JROTC Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "da79c76530c13d8115c910bf81de396c187bb15769762aaca8c990c5dbd6e198"
+  },
+  {
+    "id": "mde:cte:51.0000:2021",
+    "file": "sources/official/cte/51.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/510000-Health-Sciences-Allied-Health-Overview.xlsx?rev=60c604f1cd32486b84cdbb36204570d7&hash=67C63F1CF642C5927E76329590E3E38B",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "51.0000 - Health Sciences Allied Health Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "d70a42cf04d55c73c55feeb86323f79388d8e3f9db324eeda2d7ff41fe84e8f7"
+  },
+  {
+    "id": "mde:cte:26.0102:2026-2027",
+    "file": "sources/official/cte/26.0102.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/260102-Biomedical-Overview.xlsx?rev=7b49c77f29484c0399186a6e125f268f&hash=224DEF0DA5D53ADCD3A83F6B593B382C",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "26.0102 - Biomedical Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "3ee5dd706df3bee7053ca916e0a6b64114fafc3446c6851c78d596fd67097ce7"
+  },
+  {
+    "id": "mde:cte:52.0901:2021",
+    "file": "sources/official/cte/52.0901.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Hospitality/520901-Hospitality-Administration-Management-Overview.xlsx?rev=653426f6f1ad47809ac717aa18e091fa&hash=6039595FC3B31C9DD457967FD4276659",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "52.0901 - Hospitality Administration Management Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "fc30b46d26e398baf6e04190c6a4dfdf2696356bb4dc069f05d0b698e5bdaa59"
+  },
+  {
+    "id": "mde:cte:12.0500:2024",
+    "file": "sources/official/cte/12.0500.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Hospitality/120500-Cooking-Related-Culinary-Arts-Overview.xlsx?rev=d86d9baf596f4986918395e7e4f262fc&hash=458B6FFC8C64E950FEEDB53CB82FA626",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "12.0500 - Cooking Related Culinary Arts Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "efd42016b542e03f68ba957f593fadbf95d88522e78e81a79d8822ec182c997d"
+  },
+  {
+    "id": "mde:cte:12.0400:2021",
+    "file": "sources/official/cte/12.0400.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Human-Services/120400-Cosmetology-Overview.xlsx?rev=d1e9006285ec485994644182d79e211e&hash=3BB46D01202DAA9989B7EFC456BCFA75",
+    "retrieved": "2026-11-20",
+    "edition": "2021",
+    "title": "12.0400 Cosmetology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "4e436bac95d8e911363961363916cc58a980fd82cbc7e5e25605953b82af7ecc"
+  },
+  {
+    "id": "mde:cte:11.0201:2024",
+    "file": "sources/official/cte/11.0201.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110201-Computer-Programming-Overview.xlsx?rev=03e1cf89eee149e59f708b8cb9d223f6&hash=5F5D5C869A63480E9DFB29F688EFF6AB",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "11.0201 - Computer Programming Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "e6ad8a6d4f8897f3f0e100da4e7f58debd8a36e811a25d804f617d8e84e64528"
+  },
+  {
+    "id": "mde:cte:11.0801:2025",
+    "file": "sources/official/cte/11.0801.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110801-Digital-Multimedia-Information-Resources-Design-Overview.xlsx?rev=58e1b62d50cd449c9a0e565e04361e99&hash=6BDA755C3918920390CD7765704B1730",
+    "retrieved": "2026-11-20",
+    "edition": "2025",
+    "title": "11.0801 - Digital Multimedia Information Resources Design Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "e4a99cf2917379d53b21c8853a81b6e2de1025fc54017d3d4b87729ba41a4462"
+  },
+  {
+    "id": "mde:cte:11.0901:2024",
+    "file": "sources/official/cte/11.0901.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110901-Computer-Systems-Networking-Telecommunications-Overview.xlsx?rev=9f2bd15e67a34e5191b177dcff2c428a&hash=D09D7DB2B3A945A3678E24539709D030",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "11.0901 - Computer Systems Networking Telecommunications Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "035d15942c812857efb5043a8b3ecfc299661530505ecf2606d8db5b3ce4db2d"
+  },
+  {
+    "id": "mde:cte:11.1001:2024",
+    "file": "sources/official/cte/11.1001.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/111001-System-Administration-Overview.xlsx?rev=ede77982d8d341ecaa77b1e54d3c3a44&hash=A506D7F77BADEA1DF0217DB9555C1564",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "11.1001 - System Administration Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "0f7234618ac719b7ac288052d6c23d2516d4db666c04be2b8c9d18b31b0b2b3d"
+  },
+  {
+    "id": "mde:cte:11.1003:2023",
+    "file": "sources/official/cte/11.1003.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/111003-Computer-Information-Systems-Security-Information-Assurance-Overview.xlsx?rev=f27dad2021cc4afda41565c3122f513a&hash=7EEAEFEF000E5099771F9655958E5B7A",
+    "retrieved": "2026-11-20",
+    "edition": "2023",
+    "title": "11.1003 - Computer and Information Systems Security Information Assurance Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "823f61a1f28af0ef909afd52a2a1750b2c77950965baa49d04aa425c0351264e"
+  },
+  {
+    "id": "mde:cte:43.0100:2023",
+    "file": "sources/official/cte/43.0100.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Law-and-Public-Safety/430100-Public-Safety-Protective-Services-Overview.xlsx?rev=afd62689186b402e83e4e977c24808f4&hash=AB1AB794BF5E37D452045E938AD6AAE8",
+    "retrieved": "2026-11-20",
+    "edition": "2023",
+    "title": "43.0100 - Public Safety Protective Services Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "c7545e8af8b7a9ba52b5c5d123c71038fdc5dd57d13f7358df5c8fb8bdbf5123"
+  },
+  {
+    "id": "mde:cte:52.1999:2023",
+    "file": "sources/official/cte/52.1999.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Marketing/521999-Specialized-Merchandising-Sales-Marketing-Operations-Overview.xlsx?rev=9fb3e3a4a61f47fd9d6580d00d207aaa&hash=48A0B4D4AE0DE9A268F28EAA988761CC",
+    "retrieved": "2026-11-20",
+    "edition": "2023",
+    "title": "52.1999 - Specialized Merchandising, Sales, and Marketing Operations Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "9091f6bc25a35a4553c6511c4dc31ae842fb22c64af7206438b81f654411d7f1"
+  },
+  {
+    "id": "mde:cte:14.4201:2023",
+    "file": "sources/official/cte/14.4201.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/STEM/144201-Mechatronics-Overview.xlsx?rev=7b8234a6e0be48c0b020314fe7605cc2&hash=0C2B1CA0476EB6384272DF396D4E46EF",
+    "retrieved": "2026-11-20",
+    "edition": "2023",
+    "title": "14.4201 - Mechatronics Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "5de741312b3094116e31e46a67fbe480e4eaa617c78fcbdf2d163d65a770af6c"
+  },
+  {
+    "id": "mde:cte:15.0000:2026",
+    "file": "sources/official/cte/15.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/STEM/150000-Engineering-Technology-Overview.xlsx?rev=e4800f186c144690a82a78950632c30f&hash=D84B48FC5FC6382FE9C91A384A811D27",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "15.0000 - Engineering Technology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "391f09d220ae17170bba063ffdc7a3d011f102ccda3e9773304b8fd26752ebf8"
+  },
+  {
+    "id": "mde:cte:15.1306:2025",
+    "file": "sources/official/cte/15.1306.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/STEM/151306-Mechanical-Drafting-Overview.xlsx?rev=3359a609a4644a298c791edfad41c005&hash=B3132AF345F46E9AF31F51CFEFD34311",
+    "retrieved": "2026-11-20",
+    "edition": "2025",
+    "title": "15.1306 - Mechanical Drafting Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "38f7b2422f76b1f8f5bd916f77221828ec13fcc00f9edf5e4ef6bd32dd664ab8"
+  },
+  {
+    "id": "mde:cte:47.0399:2026-2027",
+    "file": "sources/official/cte/47.0399.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470399-Heavy-Equipment-Maintenance-Overview.xlsx?rev=a8a37f09849d4edcab17a00b2dd8684b&hash=F67F4338D2CBF9FE463F049682E18760",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "47.0399 - Heavy Equipment Maintenance Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "3ef28a17ccf703ed1e336a11a27d7b2cf656e0cc0393ce478c5c5e4d20dac652"
+  },
+  {
+    "id": "mde:cte:47.0603:2026",
+    "file": "sources/official/cte/47.0603.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470603-Collision-Repair-Technician-Overview.xlsx?rev=ee04df3f01f14caca27bc33b6ea7042a&hash=0F476C655A8192003355789E9319DC25",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "47.0603 - Collision Repair Technician Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "8cb7b62ec3567232bc12c05af7d8982d5d0ac1acab66c0de38e42d79fd677a0e"
+  },
+  {
+    "id": "mde:cte:47.0604:2023",
+    "file": "sources/official/cte/47.0604.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470604-Automobile-Technician-Overview.xlsx?rev=70ea1b6cfb504cf38e6e874efb8a657f&hash=859A531C1AC892CDCC8AEAED9DA9544B",
+    "retrieved": "2026-11-20",
+    "edition": "2023",
+    "title": "47.0604 - Automobile Technician Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "4abc411242de5e256768b87ccb2a2fc248d7b7fbb3deaa7e4698b827d2f24aa1"
+  },
+  {
+    "id": "mde:cte:47.0606:2026",
+    "file": "sources/official/cte/47.0606.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470606-Small-Engine-Related-Equipment-Repair-Overview.xlsx?rev=a95ebe7a89a84b80819bc15f32a00ec1&hash=E8E65986F900648B2BB0493D045E3548",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "47.0606 - Small Engines & Related Equipment Repair Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "00aad28282cb16ccdc69fb632b015cb7fd664312e85a269b5f141bdd9b7fd205"
+  },
+  {
+    "id": "mde:cte:47.0607:2026-2027",
+    "file": "sources/official/cte/47.0607.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470607-Airframe-Technology-Overview.xlsx?rev=12283387692444e9a46024fdfac41785&hash=D2795BBB363BDE35C14D2C5ABABDBC99",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "47.0607 - Airframe Technology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "f4cc2bd60b416a51cd034cfe40024260fe8eb1f34cbe65222443bf7caee1451b"
+  },
+  {
+    "id": "mde:cte:47.0608:2026-2027",
+    "file": "sources/official/cte/47.0608.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470608-Power-Plant-Technology-Overview.xlsx?rev=63ca7e6463af45db8e3629559c7e4610&hash=4CBA12763A87FCE16621CE7C549B91A7",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "47.0608 - Power Plant Technology Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "65c654eaa3f817eefa674f8a30b64d38d16e9ee6f6c40cbce116a43a78d88cce"
+  },
+  {
+    "id": "mde:cte:47.0609:2026-2027",
+    "file": "sources/official/cte/47.0609.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470609-Avionics-Maintenance-Overview.xlsx?rev=98f34117527f4fad8d3be7fedcb8c567&hash=E0A08EB7ADCC891510D1E973ABC5121E",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "47.0609 - Avionics Maintenance Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "075433176b23fefe18a3931dd0c5363d99dd7ca6e48c4b17ddc4f8b50d139e56"
+  },
+  {
+    "id": "mde:cte:47.0613:2026",
+    "file": "sources/official/cte/47.0613.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470613-Medium-Heavy-Truck-Technician-Overview.xlsx?rev=e956ae9e867844d3adbaa43529754832&hash=02EB3D68C5504D0D24FB255DA53EB3A3",
+    "retrieved": "2026-11-20",
+    "edition": "2026",
+    "title": "47.0613 - Medium/Heavy Truck Technician Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "3638018b5d573f3857a5f0fb3f8eb172e2f9d030044daac8ac51436e1d863c5f"
+  },
+  {
+    "id": "mde:cte:49.0101:2022",
+    "file": "sources/official/cte/49.0101.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/490101Aviation-General-Drones-Overview.xlsx?rev=3128d6a7778d4a128ae2b4a21c5c41c0&hash=95CEB6F9742049BB6C9931DA10844A02",
+    "retrieved": "2026-11-20",
+    "edition": "2022",
+    "title": "49.0101 - Aviation General Drones Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "a8a6215cfad418d4d673f1dceeda426fc5a2b9c2d38eaf5b64e05c67d8e78d9e"
+  },
+  {
+    "id": "mde:cte:49.0102:2022",
+    "file": "sources/official/cte/49.0102.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/490102-Airline-Pilot-Private-Pilot-Overview.xlsx?rev=8924640b5b604deb8729b1958dcaba06&hash=4E596A0F45ACAC2E970CEC046696980D",
+    "retrieved": "2026-11-20",
+    "edition": "2022",
+    "title": "49.0102 - Airline Pilot/Private Pilot Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "bf341deeb732e1bce1809e902699fef96913cc1ba436fb1c15e80a51bda90fdd"
+  },
+  {
+    "id": "mde:cte:19.0000:2018",
+    "file": "sources/official/cte/19.0000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Family-and-Consumer-Science/190000_Family_and_Consumer_Sciences_2018_701915_7.xlsx?rev=1b8eef70fe624bdcba8d5743b49944da&hash=C20C217E3030F47727823EB8454FA175",
+    "retrieved": "2026-11-20",
+    "edition": "2018",
+    "title": "19.0000 - Family and Consumer Sciences 2018",
+    "authority": "Michigan Department of Education",
+    "sha256": "716cb32a51579b3f0069d8ee82b58e2848972cd532dfa53e7097cf5cde3ab25e"
+  },
+  {
+    "id": "mde:cte:51.1000:2026-2027",
+    "file": "sources/official/cte/51.1000.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/511000-Clinical-Medical-Lab-Science-Overview.xlsx?rev=d009133e0324426fbd8aaf8dda38a2b2&hash=826FD3341A63C41D45F1C26F0EF9131C",
+    "retrieved": "2026-11-20",
+    "edition": "2026-2027",
+    "title": "51.1000 - Clinical Medical Lab Science",
+    "authority": "Michigan Department of Education",
+    "sha256": "5b70a7587dfa04d6cccd43625ab00592ed3c3347348a2f9d2021f618a2ae04dd"
+  },
+  {
+    "id": "mde:cte:47.0101:2025",
+    "file": "sources/official/cte/47.0101.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Manufacturing/470101-Electrical-Electronics-Equipment-Installation-Repair-Overview.xlsx?rev=731380d580564518a262850c7b1cb516&hash=1E1D7546C41A1048FE3CAE40FD6F423A",
+    "retrieved": "2026-11-20",
+    "edition": "2025",
+    "title": "47.0101 - Electrical/Electronics Equipment Installation Repair Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "9395d5a5b256fb3905e2ebc2ef1ad6aba87af591a32d6a23954a08b5b3dd0fd9"
+  },
+  {
+    "id": "mde:cte:48.0501:2024",
+    "file": "sources/official/cte/48.0501.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Manufacturing/480501-Machine-Tool-Technology-Machinist-Overview.xlsx?rev=15273952b51d4226bc402dc82feda8d1&hash=90A1BBC8AC6137F6128BD34860EB78F1",
+    "retrieved": "2026-11-20",
+    "edition": "2024",
+    "title": "48.0501 - Machine Tool Technology Machinist Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "bb65a9a577b5ae5d1f55895e83924993d79c00a33e214db9674a88079d581072"
+  },
+  {
+    "id": "mde:cte:48.0508:2023",
+    "file": "sources/official/cte/48.0508.xlsx",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Manufacturing/480508-Welding-Brazing-Soldering-Overview.xlsx?rev=18fdbf99b8f04e469ff6d7c5ab12f312&hash=E9D8AD840046CE292986997BF60BC3DD",
+    "retrieved": "2026-11-20",
+    "edition": "2023",
+    "title": "48.0508 - Welding, Brazing and Soldering Overview",
+    "authority": "Michigan Department of Education",
+    "sha256": "d17a30abb133778eb4f812a2d61446638a190424929e681487b3ce775ba99602"
+  }
+]

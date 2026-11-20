@@ -1,0 +1,40 @@
+---
+id: "MI.MATH.2010.A-REI.B.4"
+parent_id: "MI.MATH.2010.A-REI.B"
+node_type: "standard"
+code: "A-REI.B.4"
+title: "Solve quadratic equations in one variable."
+jurisdiction: "US-MI"
+subject: "mathematics"
+framework: "Michigan Mathematics"
+edition: "2010"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:math2010", "pages": [67]}]
+children: ["MI.MATH.2010.A-REI.B.4a", "MI.MATH.2010.A-REI.B.4b"]
+path: "standards/us/mi/mathematics/2010/high-school/A-REI/A-REI.B/A-REI.B.4/README.md"
+notes: []
+source_code: "A-REI / 4"
+code_origin: "conventional-composite"
+title_origin: "statement-excerpt"
+text_sha256: "81bd5a9be0ee3561d25459d22d1bbf35b4b15f80f36388593155bc9fe570866c"
+---
+
+# A-REI.B.4 - Solve quadratic equations in one variable.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Solve quadratic equations in one variable.
+<!-- standard-text:end -->
+
+## Source
+
+- [Michigan K-12 Standards: Mathematics](../../../../../../../../../sources/official/math.pdf); PDF page(s) 67. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/Literacy/Content-Standards/Math_Standards.pdf)
+
+## Children
+
+- [A-REI.B.4a - Use the method of completing the square to transform any quadratic equation in x...](A-REI.B.4a/README.md)
+- [A-REI.B.4b - Solve quadratic equations by inspection (e.g., for x^(2) = 49), taking square roots,...](A-REI.B.4b/README.md)

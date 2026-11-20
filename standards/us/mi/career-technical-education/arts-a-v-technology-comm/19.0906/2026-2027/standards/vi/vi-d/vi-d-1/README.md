@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.19.0906.2026-2027.MATRIX.VI.D.1"
+parent_id: "MI.CTE.19.0906.2026-2027.MATRIX.VI.D"
+node_type: "substandard"
+code: "VI.D.1"
+title: "Examine the physical preparation for physically demanding work activities related to..."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2007"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:19.0906:2026-2027", "sheet": "Standards", "cells": ["C235", "E235"]}]
+children: []
+path: "standards/us/mi/career-technical-education/arts-a-v-technology-comm/19.0906/2026-2027/standards/vi/vi-d/vi-d-1/README.md"
+notes: []
+source_code: "VI.D.1"
+code_origin: "source-position-composite"
+record_role: "performance-element"
+title_origin: "statement-excerpt"
+text_sha256: "cf6c96d2bb7ec45d5940835bf385ffadd4fd1a72c2c82d889fa776d0a18d73b7"
+---
+
+# VI.D.1 - Examine the physical preparation for physically demanding work activities related to...
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Examine the physical preparation for physically demanding work activities related to pathways in this career cluster.
+<!-- standard-text:end -->
+
+## Source
+
+- [19.0906 - Fashion Design Overview](../../../../../../../../../../../sources/official/cte/19.0906.xlsx); worksheet Standards; cell(s) C235, E235. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/190906-Fashion-Design-Overview.xlsx?rev=92b9a731550c475a832613bb1f09c0bd&hash=1A7C18CBBCE0982990E3BE22EFDCC4F8)

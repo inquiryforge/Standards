@@ -1,0 +1,68 @@
+[
+  {
+    "page": 7,
+    "printed": "ART.VA.III.3.3",
+    "repository_code": "ART.D.III.3.3",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 22,
+    "printed": "ART.M.III.K.3",
+    "repository_code": "ART.M.III.1.3",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 23,
+    "printed": "ART.M.III.K.3",
+    "repository_code": "ART.M.III.2.3",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 25,
+    "printed": "ART.M.III.K.3",
+    "repository_code": "ART.M.III.3.3",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 26,
+    "printed": "ART.M.I.1.4",
+    "repository_code": "ART.M.I.4.4",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 27,
+    "printed": "ART.M.III.K.3",
+    "repository_code": "ART.M.III.4.3",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 27,
+    "printed": "ART.M.I.2.4",
+    "repository_code": "ART.M.I.5.4",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 30,
+    "printed": "ART.M.I.1.2",
+    "repository_code": "ART.M.I.7.2",
+    "reason": "discipline/grade does not match section heading"
+  },
+  {
+    "page": 41,
+    "printed": "ART.T.IV.5.2",
+    "repository_code": "ART.T.IV.5.2-occ2",
+    "reason": "repeated code within section"
+  },
+  {
+    "page": 49,
+    "printed": "ART.VA.IV.K.2",
+    "repository_code": "ART.VA.IV.K.2-occ2",
+    "reason": "repeated code within section"
+  },
+  {
+    "page": 58,
+    "printed": "ART.VA.II.HS.7",
+    "repository_code": "ART.VA.II.7.7",
+    "reason": "discipline/grade does not match section heading"
+  }
+]

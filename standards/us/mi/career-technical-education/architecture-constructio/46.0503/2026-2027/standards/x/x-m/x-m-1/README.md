@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.46.0503.2026-2027.MATRIX.X.M.1"
+parent_id: "MI.CTE.46.0503.2026-2027.MATRIX.X.M"
+node_type: "substandard"
+code: "X.M.1"
+title: "Install/maintain natural gas lines"
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2012"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:46.0503:2026-2027", "sheet": "Standards", "cells": ["C237", "E237"]}]
+children: []
+path: "standards/us/mi/career-technical-education/architecture-constructio/46.0503/2026-2027/standards/x/x-m/x-m-1/README.md"
+notes: []
+source_code: "X.M.1"
+code_origin: "source-position-composite"
+record_role: "performance-element"
+title_origin: "statement-excerpt"
+text_sha256: "1341482968f803f8322149d94357714b18942845595ad463fbc74b0c35fb9928"
+---
+
+# X.M.1 - Install/maintain natural gas lines
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Install/maintain natural gas lines
+<!-- standard-text:end -->
+
+## Source
+
+- [46.0503 - Plumbing Technology Overview](../../../../../../../../../../../sources/official/cte/46.0503.xlsx); worksheet Standards; cell(s) C237, E237. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460503-Plumbing-Technology-Overview.xlsx?rev=44ab98eea05847f881e6b27fd56615b8&hash=31B964D3B3315035DBAEBD0346055606)

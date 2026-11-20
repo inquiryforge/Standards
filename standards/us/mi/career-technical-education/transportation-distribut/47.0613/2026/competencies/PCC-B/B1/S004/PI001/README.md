@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.47.0613.2026.B1.S004.PI001"
+parent_id: "MI.CTE.47.0613.2026.B1.S004"
+node_type: "substandard"
+code: "B1.S004.PI001"
+title: "Inspect electronic wiring harness and brackets for wear, bending, cracks, and looseness."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2026"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:47.0613:2026", "sheet": "Standards", "cells": ["E52"]}]
+children: []
+path: "standards/us/mi/career-technical-education/transportation-distribut/47.0613/2026/competencies/PCC-B/B1/S004/PI001/README.md"
+notes: []
+source_code: "ASE I.B.1"
+code_origin: "repository-position"
+record_role: "performance-indicator"
+title_origin: "statement-excerpt"
+text_sha256: "b851b3b495f163d00001ff20dada8318298861e356edba9a544cf8b73c3a176e"
+---
+
+# B1.S004.PI001 - Inspect electronic wiring harness and brackets for wear, bending, cracks, and looseness.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Inspect electronic wiring harness and brackets for wear, bending, cracks, and looseness.
+<!-- standard-text:end -->
+
+## Source
+
+- [47.0613 - Medium/Heavy Truck Technician Overview](../../../../../../../../../../../../sources/official/cte/47.0613.xlsx); worksheet Standards; cell(s) E52. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470613-Medium-Heavy-Truck-Technician-Overview.xlsx?rev=e956ae9e867844d3adbaa43529754832&hash=02EB3D68C5504D0D24FB255DA53EB3A3)

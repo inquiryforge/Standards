@@ -1,0 +1,44 @@
+---
+id: "MI.CTE.47.0607.2026-2027.MATRIX.X.M"
+parent_id: "MI.CTE.47.0607.2026-2027.MATRIX.X"
+node_type: "standard"
+code: "X.M"
+title: "General Curriculum - Ground Operations and Servicing"
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2012"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:47.0607:2026-2027", "sheet": "Standards", "cells": ["B532", "E532"]}]
+children: ["MI.CTE.47.0607.2026-2027.MATRIX.X.M.1", "MI.CTE.47.0607.2026-2027.MATRIX.X.M.2", "MI.CTE.47.0607.2026-2027.MATRIX.X.M.3", "MI.CTE.47.0607.2026-2027.MATRIX.X.M.4", "MI.CTE.47.0607.2026-2027.MATRIX.X.M.5"]
+path: "standards/us/mi/career-technical-education/transportation-distribut/47.0607/2026-2027/standards/x/x-m/README.md"
+notes: []
+source_code: "X.M"
+code_origin: "source-position-composite"
+record_role: "skill"
+title_origin: "statement-excerpt"
+text_sha256: "9fbc2afe0e82cfd565cfbd0f50f3550ec9a22493a9c303b5c57b30ed2af89d9b"
+---
+
+# X.M - General Curriculum - Ground Operations and Servicing
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+General Curriculum - Ground Operations and Servicing
+<!-- standard-text:end -->
+
+## Source
+
+- [47.0607 - Airframe Technology Overview](../../../../../../../../../../sources/official/cte/47.0607.xlsx); worksheet Standards; cell(s) B532, E532. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470607-Airframe-Technology-Overview.xlsx?rev=12283387692444e9a46024fdfac41785&hash=D2795BBB363BDE35C14D2C5ABABDBC99)
+
+## Children
+
+- [X.M.1 - Secure an aircraft C-2](x-m-1/README.md)
+- [X.M.2 - Move an aircraft C-2](x-m-2/README.md)
+- [X.M.3 - Aviation fuels and fuel servicing procedures B-1](x-m-3/README.md)
+- [X.M.4 - Airport operation B-1](x-m-4/README.md)
+- [X.M.5 - Fire extinguishers B-1](x-m-5/README.md)

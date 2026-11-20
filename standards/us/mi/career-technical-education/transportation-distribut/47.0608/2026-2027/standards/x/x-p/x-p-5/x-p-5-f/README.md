@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.47.0608.2026-2027.MATRIX.X.P.5.f"
+parent_id: "MI.CTE.47.0608.2026-2027.MATRIX.X.P.5"
+node_type: "substandard"
+code: "X.P.5.f"
+title: "Standard day B-1"
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2012"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:47.0608:2026-2027", "sheet": "Standards", "cells": ["D580", "E580"]}]
+children: []
+path: "standards/us/mi/career-technical-education/transportation-distribut/47.0608/2026-2027/standards/x/x-p/x-p-5/x-p-5-f/README.md"
+notes: []
+source_code: "X.P.5.f"
+code_origin: "source-position-composite"
+record_role: "measurement-criterion"
+title_origin: "statement-excerpt"
+text_sha256: "c318fdf1d23d70bc2bd7b41c4c740bf8b2c6b16aada81ddc42b07d9a9ea0fe89"
+---
+
+# X.P.5.f - Standard day B-1
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Standard day B-1
+<!-- standard-text:end -->
+
+## Source
+
+- [47.0608 - Power Plant Technology Overview](../../../../../../../../../../../../sources/official/cte/47.0608.xlsx); worksheet Standards; cell(s) D580, E580. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470608-Power-Plant-Technology-Overview.xlsx?rev=63ca7e6463af45db8e3629559c7e4610&hash=4CBA12763A87FCE16621CE7C549B91A7)

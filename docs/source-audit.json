@@ -1,0 +1,59 @@
+{
+  "science performance expectation codes": {
+    "source_occurrences": 215,
+    "repository_occurrences": 215,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "arts printed-code occurrences": {
+    "source_occurrences": 960,
+    "repository_occurrences": 960,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "PE unique printed codes": {
+    "source_occurrences": 580,
+    "repository_occurrences": 580,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "computer science content codes": {
+    "source_occurrences": 120,
+    "repository_occurrences": 120,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "world language unique benchmark codes": {
+    "source_occurrences": 223,
+    "repository_occurrences": 223,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "WIDA appendix expectation codes": {
+    "source_occurrences": 104,
+    "repository_occurrences": 104,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "health indicator codes": {
+    "source_occurrences": 406,
+    "repository_occurrences": 406,
+    "missing": [],
+    "extra": [],
+    "passed": true
+  },
+  "CTE statement cells": {
+    "program_workbooks": 52,
+    "expected_statement_cells": 22139,
+    "owned_statement_cells": 22139,
+    "issues": [],
+    "unexplained_owned_cells": [],
+    "passed": true
+  }
+}

@@ -1,0 +1,36 @@
+---
+id: "MI.CTE.51.0000.2021.A1.S001.PI004"
+parent_id: "MI.CTE.51.0000.2021.A1.S001"
+node_type: "substandard"
+code: "A1.S001.PI004"
+title: "Differentiate methods of controlling the spread and growth of pathogens."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2021"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:51.0000:2021", "sheet": "Standards", "cells": ["G34"]}]
+children: []
+path: "standards/us/mi/career-technical-education/health-science/51.0000/2021/competencies/PCC-A/A1/S001/PI004/README.md"
+notes: []
+source_code: "Standards row 34"
+code_origin: "repository-position"
+record_role: "performance-indicator"
+title_origin: "statement-excerpt"
+text_sha256: "fe6888cdd8043e6a080da4591024afc9dc074c95a9275ad9f03ee6cadd526c39"
+---
+
+# A1.S001.PI004 - Differentiate methods of controlling the spread and growth of pathogens.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Differentiate methods of controlling the spread and growth of pathogens.
+<!-- standard-text:end -->
+
+## Source
+
+- [51.0000 - Health Sciences Allied Health Overview](../../../../../../../../../../../../sources/official/cte/51.0000.xlsx); worksheet Standards; cell(s) G34. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/510000-Health-Sciences-Allied-Health-Overview.xlsx?rev=60c604f1cd32486b84cdbb36204570d7&hash=67C63F1CF642C5927E76329590E3E38B)

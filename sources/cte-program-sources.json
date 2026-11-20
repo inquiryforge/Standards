@@ -1,0 +1,366 @@
+[
+  {
+    "cluster": "agriculture",
+    "title": "01.0000 - Agriculture Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/010000-Agriculture-Overview.xlsx?rev=2ec17374d55d4d12970c9191d8ccae3b&hash=2E8D3F81BAB12D9800D78CFDF309C3AC",
+    "file": "sources/official/cte/01.0000.xlsx",
+    "sha256": "66931ce7cdd901ea8dedc0758b7e258eabb4f01bca50a0014d28bc91b4eb3df9"
+  },
+  {
+    "cluster": "agriculture",
+    "title": "01.0601 - Applied Horticulture Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/010601-Applied-Horticulture-Overview.xlsx?rev=eb8bfb7c1f304e85a963abaaa1bd7423&hash=D2EB654B67C5FD0256BE57B344D4123E",
+    "file": "sources/official/cte/01.0601.xlsx",
+    "sha256": "5382218ae3600a60e8739d0ead1acaefaf1652a67c75d8c23cb7364016beed52"
+  },
+  {
+    "cluster": "agriculture",
+    "title": "01.0903 - Animal Health and Veterinary Sciences Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/010903-Animal-Health-Veterinary-Sciences-Overview.xlsx?rev=f520804d2a5643d5819923083619e8d5&hash=E1BAADCFABF58F023436947E4C5965FB",
+    "file": "sources/official/cte/01.0903.xlsx",
+    "sha256": "cf22bde99fb8212c72c4d4705882792824dd5608ecf231a7813e0070de8b8fc6"
+  },
+  {
+    "cluster": "agriculture",
+    "title": "03.0000 - Natural Resources Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/030000-Natural-Resources-Overview.xlsx?rev=b2a168970b4241a1aedfc922474ecdee&hash=3CB718142573BFF793E07FF5EDE1490D",
+    "file": "sources/official/cte/03.0000.xlsx",
+    "sha256": "c086e1eb3b66adf3a397dcc3b015089a2e10debe07f7b45efa3d62460d279635"
+  },
+  {
+    "cluster": "agriculture",
+    "title": "26.1201 - Biotechnology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Agriculture/261201-Biotechnology-Overview.xlsx?rev=8106703de672496db7111e5cf2363baa&hash=5A9A6E7BDA53071A6EE680655086C79E",
+    "file": "sources/official/cte/26.1201.xlsx",
+    "sha256": "c123d8fd3845195ab53156a1334e1a8a9012271ca00659011bb6c1d3280971b7"
+  },
+  {
+    "cluster": "arts-a-v-technology-communications",
+    "title": "10.0202 - Radio & TV Broadcasting Technology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/100202-Radio-TV-Broadcasting-Technology-Overview.xlsx?rev=bee35bb19de047369efde3c5f9e60969&hash=D4424737B5FDD395FD6188118DDE68AD",
+    "file": "sources/official/cte/10.0202.xlsx",
+    "sha256": "986cef144becd12e706167df33b4bd9247bc36c80f55ab17fcad4a378f5f3445"
+  },
+  {
+    "cluster": "arts-a-v-technology-communications",
+    "title": "10.0301 - Graphics Printing Technology Communications Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/100301-Graphics-Printing-Technology-Communications-Overview.xlsx?rev=8e0ed5ae0f324b5bbfef521b9a2a3ea9&hash=8669D416BBB5F4D32515B994BE02D3DC",
+    "file": "sources/official/cte/10.0301.xlsx",
+    "sha256": "b99d99fd369151dc8a992aa676f19a9b75c002408203a2649f21ee7feabba00a"
+  },
+  {
+    "cluster": "arts-a-v-technology-communications",
+    "title": "19.0906 - Fashion Design Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/190906-Fashion-Design-Overview.xlsx?rev=92b9a731550c475a832613bb1f09c0bd&hash=1A7C18CBBCE0982990E3BE22EFDCC4F8",
+    "file": "sources/official/cte/19.0906.xlsx",
+    "sha256": "f12020cbcb29d9af698465ec2dcead623be82fd4fa1906e6131fe017e1c6d116"
+  },
+  {
+    "cluster": "arts-a-v-technology-communications",
+    "title": "50.0101 - Visual Performing Arts Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Arts-AV-Technology/500101-Visual-Performing-Arts-Overview.xlsx?rev=332e03a3684c458e8b681157f16078d8&hash=09E1B3F7F4469D8748FA76AD8BA1981D",
+    "file": "sources/official/cte/50.0101.xlsx",
+    "sha256": "3ee3957bbf08a89038f2087a32cbe7b5233322fb393a365bc39c9fa456f9e5e2"
+  },
+  {
+    "cluster": "business-management-administration",
+    "title": "52.0299 - Business Administration Management Operations Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Business/520299-Business-Administration-Management-Operations-Overview.xlsx?rev=9817c63c92014fcb966c56c635f5264d&hash=DBC82761A3E198C072F2C396E184CCF7",
+    "file": "sources/official/cte/52.0299.xlsx",
+    "sha256": "b13971978691de1d136a798432a44f5ef0b94e231d363daf8b72cb1f6d831c56"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "15.1301 - Drafting Design Technology Architectural Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/151301-Drafting-Design-Technology-Architectural-Overview.xlsx?rev=b107ba2a15c84aa3812e16cd240f352d&hash=CC56C59927EC7E755317687A37D51E58",
+    "file": "sources/official/cte/15.1301.xlsx",
+    "sha256": "b9be4466769dfb9a35756295d4a064f00edb82ef3a76c6dcb8fe11f9fae25b92"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "19.0605 - Home Furnishings Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/190605-Home-Furnishings-Overview.xlsx?rev=51c3ac4019764deca607a586f0e8c03b&hash=ABD2F5E931DC10AAFB83C884DF4BC330",
+    "file": "sources/official/cte/19.0605.xlsx",
+    "sha256": "899b7eab17d4b5892ad22171799b7ad0034dcd81c5d4d760dec47e94c878f06a"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "46.0000 - Construction Trades Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460000-Construction-Trades-Overview.xlsx?rev=1cf1fc779d4e48268dd8f5bbb64e5c37&hash=DF2AC2A5B8E26D7E9BE903B14BCF72C6",
+    "file": "sources/official/cte/46.0000.xlsx",
+    "sha256": "ecd96699d7ba66f7ff06018e50deaf92069f124da5781716e9ebf32af7f7b6cd"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "46.0301 - Electrical Power Transmission Installation Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460301-Electrical-Power-Transmission-Installation-Overview.xlsx?rev=91395857991a48089da802e9eb278a05&hash=795D9968917B9B58184DB40FCE197E69",
+    "file": "sources/official/cte/46.0301.xlsx",
+    "sha256": "c8a18ec41524ea57726c9cad7d715349016db34b8909aa613f2f18f21cc510b1"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "46.0503 - Plumbing Technology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/460503-Plumbing-Technology-Overview.xlsx?rev=44ab98eea05847f881e6b27fd56615b8&hash=31B964D3B3315035DBAEBD0346055606",
+    "file": "sources/official/cte/46.0503.xlsx",
+    "sha256": "48661ad4701506d57c18b805ceaa2c2277a5a5e5411d2cd239446b5f45a22bb2"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "47.0201 - Heating, Air Conditioning, Ventilation and Refrigeration Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/470201-Heating-Ventilation-Air-Conditioning-and-Refrigeration-Overview.xlsx?rev=f3e5c6cc585842ba90a23934438d85e4&hash=610E362FABF575358F843D15CF8DE24B",
+    "file": "sources/official/cte/47.0201.xlsx",
+    "sha256": "394a74b4c1bfbc159aead75aa0906be683181082b56c91f2b42b38b0c429b9c3"
+  },
+  {
+    "cluster": "architecture-construction",
+    "title": "48.0701 - Woodworking Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Construction/480701-Woodworking-Overview.xlsx?rev=1da5b54d09e94e49aba31c96f1ea35be&hash=EFA42AC2F525A1B4120E8FD64A088334",
+    "file": "sources/official/cte/48.0701.xlsx",
+    "sha256": "af313c6758acf5405ce84327d2f5d5aee0c10900682b723a5d977d166166e0ce"
+  },
+  {
+    "cluster": "education-and-training",
+    "title": "13.0000 Education Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Education/130000-Education-Overview.xlsx?rev=0091424ce23645c28ff34fe634d60924&hash=6C6467EA35B9495914222C960BF040D6",
+    "file": "sources/official/cte/13.0000.xlsx",
+    "sha256": "ddaad4839c798cb0b4a8bfa451dbd4ac8a67c4451f55f8e47a39a48e6bdfbfe5"
+  },
+  {
+    "cluster": "energy",
+    "title": "46.0303 - Lineworker Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Energy/460303-Lineworker-Overview.xlsx?rev=3858d3dd779044759fe1705cbb03505b&hash=EC216C3B3F0440B4C0133F1ACEB00192",
+    "file": "sources/official/cte/46.0303.xlsx",
+    "sha256": "8bafbf19e2284f9a2e2fb8965ebb652687fe0ec1eae81ac810a005ccb8d365b2"
+  },
+  {
+    "cluster": "finance",
+    "title": "52.0800 - Finance and Financial Management Services Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Finance/520800-Finance-and-Financial-Management-Services-Overview.xlsx?rev=ec12fda18087488b8ec04eeff9d152ed&hash=653F94443269E70E0F995DEDA4D9DCB1",
+    "file": "sources/official/cte/52.0800.xlsx",
+    "sha256": "e2327cca62e9eeb8776b55f13c2f008bd4d4e68d0616408960af20d8b65ddf5b"
+  },
+  {
+    "cluster": "finance",
+    "title": "52.1701 - Insurance Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Finance/521701-Insurance-Overview.xlsx?rev=0e17b071cd2d4b548c2b35bbae10ae9c&hash=FECA121E99A91882AB45BACD025F81B1",
+    "file": "sources/official/cte/52.1701.xlsx",
+    "sha256": "e3234184bb034daf127fa17823c5b86d9efacd57291f5a4374cf1a7ac4db8c91"
+  },
+  {
+    "cluster": "government-and-public-administration",
+    "title": "28.0301 - JROTC Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Government/280301-Army-JROTC-Overview.xlsx?rev=26baa313c0ec46c5ba7b406e128a62a6&hash=1C104511052C6F23B131F697CC8BD9C7",
+    "file": "sources/official/cte/28.0301.xlsx",
+    "sha256": "da79c76530c13d8115c910bf81de396c187bb15769762aaca8c990c5dbd6e198"
+  },
+  {
+    "cluster": "health-science",
+    "title": "51.0000 - Health Sciences Allied Health Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/510000-Health-Sciences-Allied-Health-Overview.xlsx?rev=60c604f1cd32486b84cdbb36204570d7&hash=67C63F1CF642C5927E76329590E3E38B",
+    "file": "sources/official/cte/51.0000.xlsx",
+    "sha256": "d70a42cf04d55c73c55feeb86323f79388d8e3f9db324eeda2d7ff41fe84e8f7"
+  },
+  {
+    "cluster": "health-science",
+    "title": "26.0102 - Biomedical Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/260102-Biomedical-Overview.xlsx?rev=7b49c77f29484c0399186a6e125f268f&hash=224DEF0DA5D53ADCD3A83F6B593B382C",
+    "file": "sources/official/cte/26.0102.xlsx",
+    "sha256": "3ee5dd706df3bee7053ca916e0a6b64114fafc3446c6851c78d596fd67097ce7"
+  },
+  {
+    "cluster": "hospitality-and-tourism",
+    "title": "52.0901 - Hospitality Administration Management Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Hospitality/520901-Hospitality-Administration-Management-Overview.xlsx?rev=653426f6f1ad47809ac717aa18e091fa&hash=6039595FC3B31C9DD457967FD4276659",
+    "file": "sources/official/cte/52.0901.xlsx",
+    "sha256": "fc30b46d26e398baf6e04190c6a4dfdf2696356bb4dc069f05d0b698e5bdaa59"
+  },
+  {
+    "cluster": "hospitality-and-tourism",
+    "title": "12.0500 - Cooking Related Culinary Arts Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Hospitality/120500-Cooking-Related-Culinary-Arts-Overview.xlsx?rev=d86d9baf596f4986918395e7e4f262fc&hash=458B6FFC8C64E950FEEDB53CB82FA626",
+    "file": "sources/official/cte/12.0500.xlsx",
+    "sha256": "efd42016b542e03f68ba957f593fadbf95d88522e78e81a79d8822ec182c997d"
+  },
+  {
+    "cluster": "human-services",
+    "title": "12.0400 Cosmetology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Human-Services/120400-Cosmetology-Overview.xlsx?rev=d1e9006285ec485994644182d79e211e&hash=3BB46D01202DAA9989B7EFC456BCFA75",
+    "file": "sources/official/cte/12.0400.xlsx",
+    "sha256": "4e436bac95d8e911363961363916cc58a980fd82cbc7e5e25605953b82af7ecc"
+  },
+  {
+    "cluster": "information-technology",
+    "title": "11.0201 - Computer Programming Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110201-Computer-Programming-Overview.xlsx?rev=03e1cf89eee149e59f708b8cb9d223f6&hash=5F5D5C869A63480E9DFB29F688EFF6AB",
+    "file": "sources/official/cte/11.0201.xlsx",
+    "sha256": "e6ad8a6d4f8897f3f0e100da4e7f58debd8a36e811a25d804f617d8e84e64528"
+  },
+  {
+    "cluster": "information-technology",
+    "title": "11.0801 - Digital Multimedia Information Resources Design Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110801-Digital-Multimedia-Information-Resources-Design-Overview.xlsx?rev=58e1b62d50cd449c9a0e565e04361e99&hash=6BDA755C3918920390CD7765704B1730",
+    "file": "sources/official/cte/11.0801.xlsx",
+    "sha256": "e4a99cf2917379d53b21c8853a81b6e2de1025fc54017d3d4b87729ba41a4462"
+  },
+  {
+    "cluster": "information-technology",
+    "title": "11.0901 - Computer Systems Networking Telecommunications Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/110901-Computer-Systems-Networking-Telecommunications-Overview.xlsx?rev=9f2bd15e67a34e5191b177dcff2c428a&hash=D09D7DB2B3A945A3678E24539709D030",
+    "file": "sources/official/cte/11.0901.xlsx",
+    "sha256": "035d15942c812857efb5043a8b3ecfc299661530505ecf2606d8db5b3ce4db2d"
+  },
+  {
+    "cluster": "information-technology",
+    "title": "11.1001 - System Administration Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/111001-System-Administration-Overview.xlsx?rev=ede77982d8d341ecaa77b1e54d3c3a44&hash=A506D7F77BADEA1DF0217DB9555C1564",
+    "file": "sources/official/cte/11.1001.xlsx",
+    "sha256": "0f7234618ac719b7ac288052d6c23d2516d4db666c04be2b8c9d18b31b0b2b3d"
+  },
+  {
+    "cluster": "information-technology",
+    "title": "11.1003 - Computer and Information Systems Security Information Assurance Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Information-Technology/111003-Computer-Information-Systems-Security-Information-Assurance-Overview.xlsx?rev=f27dad2021cc4afda41565c3122f513a&hash=7EEAEFEF000E5099771F9655958E5B7A",
+    "file": "sources/official/cte/11.1003.xlsx",
+    "sha256": "823f61a1f28af0ef909afd52a2a1750b2c77950965baa49d04aa425c0351264e"
+  },
+  {
+    "cluster": "law-public-safety-corrections-and-security",
+    "title": "43.0100 - Public Safety Protective Services Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Law-and-Public-Safety/430100-Public-Safety-Protective-Services-Overview.xlsx?rev=afd62689186b402e83e4e977c24808f4&hash=AB1AB794BF5E37D452045E938AD6AAE8",
+    "file": "sources/official/cte/43.0100.xlsx",
+    "sha256": "c7545e8af8b7a9ba52b5c5d123c71038fdc5dd57d13f7358df5c8fb8bdbf5123"
+  },
+  {
+    "cluster": "marketing",
+    "title": "52.1999 - Specialized Merchandising, Sales, and Marketing Operations Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Marketing/521999-Specialized-Merchandising-Sales-Marketing-Operations-Overview.xlsx?rev=9fb3e3a4a61f47fd9d6580d00d207aaa&hash=48A0B4D4AE0DE9A268F28EAA988761CC",
+    "file": "sources/official/cte/52.1999.xlsx",
+    "sha256": "9091f6bc25a35a4553c6511c4dc31ae842fb22c64af7206438b81f654411d7f1"
+  },
+  {
+    "cluster": "science-technology-engineering-and-mathematics",
+    "title": "14.4201 - Mechatronics Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/STEM/144201-Mechatronics-Overview.xlsx?rev=7b8234a6e0be48c0b020314fe7605cc2&hash=0C2B1CA0476EB6384272DF396D4E46EF",
+    "file": "sources/official/cte/14.4201.xlsx",
+    "sha256": "5de741312b3094116e31e46a67fbe480e4eaa617c78fcbdf2d163d65a770af6c"
+  },
+  {
+    "cluster": "science-technology-engineering-and-mathematics",
+    "title": "15.0000 - Engineering Technology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/STEM/150000-Engineering-Technology-Overview.xlsx?rev=e4800f186c144690a82a78950632c30f&hash=D84B48FC5FC6382FE9C91A384A811D27",
+    "file": "sources/official/cte/15.0000.xlsx",
+    "sha256": "391f09d220ae17170bba063ffdc7a3d011f102ccda3e9773304b8fd26752ebf8"
+  },
+  {
+    "cluster": "science-technology-engineering-and-mathematics",
+    "title": "15.1306 - Mechanical Drafting Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/STEM/151306-Mechanical-Drafting-Overview.xlsx?rev=3359a609a4644a298c791edfad41c005&hash=B3132AF345F46E9AF31F51CFEFD34311",
+    "file": "sources/official/cte/15.1306.xlsx",
+    "sha256": "38f7b2422f76b1f8f5bd916f77221828ec13fcc00f9edf5e4ef6bd32dd664ab8"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0399 - Heavy Equipment Maintenance Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470399-Heavy-Equipment-Maintenance-Overview.xlsx?rev=a8a37f09849d4edcab17a00b2dd8684b&hash=F67F4338D2CBF9FE463F049682E18760",
+    "file": "sources/official/cte/47.0399.xlsx",
+    "sha256": "3ef28a17ccf703ed1e336a11a27d7b2cf656e0cc0393ce478c5c5e4d20dac652"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0603 - Collision Repair Technician Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470603-Collision-Repair-Technician-Overview.xlsx?rev=ee04df3f01f14caca27bc33b6ea7042a&hash=0F476C655A8192003355789E9319DC25",
+    "file": "sources/official/cte/47.0603.xlsx",
+    "sha256": "8cb7b62ec3567232bc12c05af7d8982d5d0ac1acab66c0de38e42d79fd677a0e"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0604 - Automobile Technician Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470604-Automobile-Technician-Overview.xlsx?rev=70ea1b6cfb504cf38e6e874efb8a657f&hash=859A531C1AC892CDCC8AEAED9DA9544B",
+    "file": "sources/official/cte/47.0604.xlsx",
+    "sha256": "4abc411242de5e256768b87ccb2a2fc248d7b7fbb3deaa7e4698b827d2f24aa1"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0606 - Small Engines & Related Equipment Repair Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470606-Small-Engine-Related-Equipment-Repair-Overview.xlsx?rev=a95ebe7a89a84b80819bc15f32a00ec1&hash=E8E65986F900648B2BB0493D045E3548",
+    "file": "sources/official/cte/47.0606.xlsx",
+    "sha256": "00aad28282cb16ccdc69fb632b015cb7fd664312e85a269b5f141bdd9b7fd205"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0607 - Airframe Technology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470607-Airframe-Technology-Overview.xlsx?rev=12283387692444e9a46024fdfac41785&hash=D2795BBB363BDE35C14D2C5ABABDBC99",
+    "file": "sources/official/cte/47.0607.xlsx",
+    "sha256": "f4cc2bd60b416a51cd034cfe40024260fe8eb1f34cbe65222443bf7caee1451b"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0608 - Power Plant Technology Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470608-Power-Plant-Technology-Overview.xlsx?rev=63ca7e6463af45db8e3629559c7e4610&hash=4CBA12763A87FCE16621CE7C549B91A7",
+    "file": "sources/official/cte/47.0608.xlsx",
+    "sha256": "65c654eaa3f817eefa674f8a30b64d38d16e9ee6f6c40cbce116a43a78d88cce"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0609 - Avionics Maintenance Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470609-Avionics-Maintenance-Overview.xlsx?rev=98f34117527f4fad8d3be7fedcb8c567&hash=E0A08EB7ADCC891510D1E973ABC5121E",
+    "file": "sources/official/cte/47.0609.xlsx",
+    "sha256": "075433176b23fefe18a3931dd0c5363d99dd7ca6e48c4b17ddc4f8b50d139e56"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "47.0613 - Medium/Heavy Truck Technician Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/470613-Medium-Heavy-Truck-Technician-Overview.xlsx?rev=e956ae9e867844d3adbaa43529754832&hash=02EB3D68C5504D0D24FB255DA53EB3A3",
+    "file": "sources/official/cte/47.0613.xlsx",
+    "sha256": "3638018b5d573f3857a5f0fb3f8eb172e2f9d030044daac8ac51436e1d863c5f"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "49.0101 - Aviation General Drones Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/490101Aviation-General-Drones-Overview.xlsx?rev=3128d6a7778d4a128ae2b4a21c5c41c0&hash=95CEB6F9742049BB6C9931DA10844A02",
+    "file": "sources/official/cte/49.0101.xlsx",
+    "sha256": "a8a6215cfad418d4d673f1dceeda426fc5a2b9c2d38eaf5b64e05c67d8e78d9e"
+  },
+  {
+    "cluster": "transportation-distribution-logistics",
+    "title": "49.0102 - Airline Pilot/Private Pilot Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Transportation/490102-Airline-Pilot-Private-Pilot-Overview.xlsx?rev=8924640b5b604deb8729b1958dcaba06&hash=4E596A0F45ACAC2E970CEC046696980D",
+    "file": "sources/official/cte/49.0102.xlsx",
+    "sha256": "bf341deeb732e1bce1809e902699fef96913cc1ba436fb1c15e80a51bda90fdd"
+  },
+  {
+    "cluster": "family-and-consumer-sciences",
+    "title": "19.0000 - Family and Consumer Sciences 2018",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Family-and-Consumer-Science/190000_Family_and_Consumer_Sciences_2018_701915_7.xlsx?rev=1b8eef70fe624bdcba8d5743b49944da&hash=C20C217E3030F47727823EB8454FA175",
+    "file": "sources/official/cte/19.0000.xlsx",
+    "sha256": "716cb32a51579b3f0069d8ee82b58e2848972cd532dfa53e7097cf5cde3ab25e"
+  },
+  {
+    "cluster": "health-science",
+    "title": "51.1000 - Clinical Medical Lab Science",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/511000-Clinical-Medical-Lab-Science-Overview.xlsx?rev=d009133e0324426fbd8aaf8dda38a2b2&hash=826FD3341A63C41D45F1C26F0EF9131C",
+    "file": "sources/official/cte/51.1000.xlsx",
+    "sha256": "5b70a7587dfa04d6cccd43625ab00592ed3c3347348a2f9d2021f618a2ae04dd"
+  },
+  {
+    "cluster": "manufacturing",
+    "title": "47.0101 - Electrical/Electronics Equipment Installation Repair Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Manufacturing/470101-Electrical-Electronics-Equipment-Installation-Repair-Overview.xlsx?rev=731380d580564518a262850c7b1cb516&hash=1E1D7546C41A1048FE3CAE40FD6F423A",
+    "file": "sources/official/cte/47.0101.xlsx",
+    "sha256": "9395d5a5b256fb3905e2ebc2ef1ad6aba87af591a32d6a23954a08b5b3dd0fd9"
+  },
+  {
+    "cluster": "manufacturing",
+    "title": "48.0501 - Machine Tool Technology Machinist Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Manufacturing/480501-Machine-Tool-Technology-Machinist-Overview.xlsx?rev=15273952b51d4226bc402dc82feda8d1&hash=90A1BBC8AC6137F6128BD34860EB78F1",
+    "file": "sources/official/cte/48.0501.xlsx",
+    "sha256": "bb65a9a577b5ae5d1f55895e83924993d79c00a33e214db9674a88079d581072"
+  },
+  {
+    "cluster": "manufacturing",
+    "title": "48.0508 - Welding, Brazing and Soldering Overview",
+    "url": "https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Manufacturing/480508-Welding-Brazing-Soldering-Overview.xlsx?rev=18fdbf99b8f04e469ff6d7c5ab12f312&hash=E9D8AD840046CE292986997BF60BC3DD",
+    "file": "sources/official/cte/48.0508.xlsx",
+    "sha256": "d17a30abb133778eb4f812a2d61446638a190424929e681487b3ce775ba99602"
+  }
+]

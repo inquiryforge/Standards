@@ -1,0 +1,144 @@
+{
+  "source": "Michigan K-12 Social Studies Standards, June 2019",
+  "pdf_sha256": "bba06f46bb241ae3cdd698caaeb41baa3c976d96176fef0a9d594a7e98e70b96",
+  "independent_extractor": "pypdf; primary extraction used pdfplumber",
+  "scopes": [
+    {
+      "scope": "K",
+      "independent_codes": 21,
+      "repository_codes": 21,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G01",
+      "independent_codes": 31,
+      "repository_codes": 31,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G02",
+      "independent_codes": 37,
+      "repository_codes": 37,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G03",
+      "independent_codes": 42,
+      "repository_codes": 42,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G04",
+      "independent_codes": 48,
+      "repository_codes": 48,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G05",
+      "independent_codes": 50,
+      "repository_codes": 50,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G06",
+      "independent_codes": 57,
+      "repository_codes": 57,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G07",
+      "independent_codes": 55,
+      "repository_codes": 55,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G08",
+      "independent_codes": 45,
+      "repository_codes": 45,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "K02.PS",
+      "independent_codes": 17,
+      "repository_codes": 17,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "G03-05.PS",
+      "independent_codes": 17,
+      "repository_codes": 17,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "MS.PS",
+      "independent_codes": 15,
+      "repository_codes": 15,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "HS.PS",
+      "independent_codes": 16,
+      "repository_codes": 16,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "HS.WHG",
+      "independent_codes": 32,
+      "repository_codes": 32,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "HS.USH",
+      "independent_codes": 39,
+      "repository_codes": 39,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "HS.CIV",
+      "independent_codes": 54,
+      "repository_codes": 54,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    },
+    {
+      "scope": "HS.ECON",
+      "independent_codes": 33,
+      "repository_codes": 33,
+      "missing": [],
+      "extra": [],
+      "passed": true
+    }
+  ],
+  "passed": true
+}

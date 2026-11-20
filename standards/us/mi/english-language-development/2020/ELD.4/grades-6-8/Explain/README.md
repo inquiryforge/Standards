@@ -1,0 +1,26 @@
+---
+id: "MI.ELD.2020.ELD.4.6-8.Explain"
+parent_id: "MI.ELD.2020.ELD.4.6-8"
+node_type: "group"
+code: null
+title: "Explain"
+jurisdiction: "US-MI"
+subject: "english-language-development"
+framework: "WIDA English Language Development Standards Framework"
+edition: "2020"
+grade_band: [6, 7, 8]
+status: "structural"
+source: []
+children: ["MI.ELD.2020.ELD-SC.6-8.Explain.Interpretive", "MI.ELD.2020.ELD-SC.6-8.Explain.Expressive"]
+path: "standards/us/mi/english-language-development/2020/ELD.4/grades-6-8/Explain/README.md"
+notes: []
+---
+
+# Explain
+
+[Parent](../README.md)
+
+## Children
+
+- [ELD-SC.6-8.Explain.Interpretive - Interpret scientific explanations by ● Defining investigable questions or design...](ELD-SC.6-8.Explain.Interpretive/README.md)
+- [ELD-SC.6-8.Explain.Expressive - Construct scientific explanations that ● Describe valid and reliable evidence from...](ELD-SC.6-8.Explain.Expressive/README.md)

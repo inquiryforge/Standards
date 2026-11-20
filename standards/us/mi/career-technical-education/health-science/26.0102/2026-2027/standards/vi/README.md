@@ -1,0 +1,41 @@
+---
+id: "MI.CTE.26.0102.2026-2027.MATRIX.VI"
+parent_id: "MI.CTE.26.0102.2026-2027.STANDARDS"
+node_type: "standard"
+code: "VI"
+title: "BIOETHICS Biotechnology R & D professionals are not isolated from the social effect..."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2017"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:26.0102:2026-2027", "sheet": "Standards", "cells": ["A63", "E63"]}]
+children: ["MI.CTE.26.0102.2026-2027.MATRIX.VI.A", "MI.CTE.26.0102.2026-2027.MATRIX.VI.B"]
+path: "standards/us/mi/career-technical-education/health-science/26.0102/2026-2027/standards/vi/README.md"
+notes: []
+source_code: "VI"
+code_origin: "source-position-composite"
+record_role: "knowledge"
+title_origin: "statement-excerpt"
+text_sha256: "658091457707992e1f62d1eed15f1fcfa153ac92b2f9f350221c0bef0ae2fdd6"
+---
+
+# VI - BIOETHICS Biotechnology R & D professionals are not isolated from the social effect...
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+BIOETHICS Biotechnology R & D professionals are not isolated from the social effect of their products in our society. Science, technology and society are intertwined. Biotechnology R & D employees will be conversant with the larger ethical, moral and legal issues related to biotech research, product development and use in society.
+<!-- standard-text:end -->
+
+## Source
+
+- [26.0102 - Biomedical Overview](../../../../../../../../../sources/official/cte/26.0102.xlsx); worksheet Standards; cell(s) A63, E63. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Health-Science/260102-Biomedical-Overview.xlsx?rev=7b49c77f29484c0399186a6e125f268f&hash=224DEF0DA5D53ADCD3A83F6B593B382C)
+
+## Children
+
+- [VI.A - Societal](vi-a/README.md)
+- [VI.B - Institutional](vi-b/README.md)

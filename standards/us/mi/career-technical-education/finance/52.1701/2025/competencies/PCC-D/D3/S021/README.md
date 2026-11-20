@@ -1,0 +1,41 @@
+---
+id: "MI.CTE.52.1701.2025.D3.S021"
+parent_id: "MI.CTE.52.1701.2025.D3"
+node_type: "substandard"
+code: "D3.S021"
+title: "Describe disability and health insurance planning strategies."
+jurisdiction: "US-MI"
+subject: "career-technical-education"
+framework: "Michigan Career and Technical Education"
+edition: "2025"
+grade_band: [9, 10, 11, 12]
+status: "active"
+source: [{"source_id": "mde:cte:52.1701:2025", "sheet": "Standards", "cells": ["C314", "D314"]}]
+children: ["MI.CTE.52.1701.2025.D3.S021.PI001"]
+path: "standards/us/mi/career-technical-education/finance/52.1701/2025/competencies/PCC-D/D3/S021/README.md"
+notes: []
+source_code: "GAP:  XII-L6"
+code_origin: "repository-position"
+record_role: "aligned-standard"
+related_competency_ids: ["MI.CTE.52.1701.2025.D3"]
+title_origin: "statement-excerpt"
+text_sha256: "55b79a2cac4c9aac218a52e6cff8b18896cdc09fc6b2ce7413423fd542f086e9"
+---
+
+# D3.S021 - Describe disability and health insurance planning strategies.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Describe disability and health insurance planning strategies.
+<!-- standard-text:end -->
+
+## Source
+
+- [52.1701 - Insurance Overview](../../../../../../../../../../../sources/official/cte/52.1701.xlsx); worksheet Standards; cell(s) C314, D314. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/CTE/cte_cluster/Finance/521701-Insurance-Overview.xlsx?rev=0e17b071cd2d4b548c2b35bbae10ae9c&hash=FECA121E99A91882AB45BACD025F81B1)
+
+## Children
+
+- [D3.S021.PI001 - Describe the considerations an individual should review when choosing long-term care...](PI001/README.md)

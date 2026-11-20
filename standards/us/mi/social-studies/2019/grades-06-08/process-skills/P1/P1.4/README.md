@@ -1,0 +1,35 @@
+---
+id: "MI.SS.2019.MS.PS.P1.4"
+parent_id: "MI.SS.2019.MS.PS.P1"
+node_type: "standard"
+code: "P1.4"
+title: "Present an argument supported with evidence."
+jurisdiction: "US-MI"
+subject: "social-studies"
+framework: "Michigan K-12 Social Studies Standards"
+edition: "2019"
+grade_band: [6, 7, 8]
+status: "active"
+source: [{"source_id": "mde:social-studies2019", "pages": [52], "line_spans": [{"page": 52, "lines": [9]}]}]
+children: []
+path: "standards/us/mi/social-studies/2019/grades-06-08/process-skills/P1/P1.4/README.md"
+notes: []
+source_code: "P1.4"
+code_origin: "source"
+title_origin: "statement-excerpt"
+text_sha256: "418cc1e1c3be31fbc4bd4c63142b662b787ecb03ddb7ec2c0c9ed1fbac92e24c"
+---
+
+# P1.4 - Present an argument supported with evidence.
+
+[Parent](../README.md)
+
+## Standard
+
+<!-- standard-text:start -->
+Present an argument supported with evidence.
+<!-- standard-text:end -->
+
+## Source
+
+- [Michigan K-12 Social Studies Standards, June 2019](../../../../../../../../../sources/official/social-studies-2019.pdf); PDF page(s) 52. [Official source](https://www.michigan.gov/mde/-/media/Project/Websites/mde/Academic-Standards/Social_Studies_Standards.pdf?rev=7ec086ebb7814277baf6702705fb8007&hash=E2F7B23E51EAC1696D9586B67E006F5C)
